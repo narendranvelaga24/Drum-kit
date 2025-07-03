@@ -30,6 +30,3 @@ Drum-kit/
 ## Credits
 - Drum images and sounds are included in the `images/` and `sounds/` folders, respectively.
 - Fonts from [Google Fonts](https://fonts.google.com/).
-
----
-Made with ❤️ in London.
